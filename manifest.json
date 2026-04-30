@@ -1,0 +1,21 @@
+{
+  "name": "Controle X",
+  "short_name": "Controle X",
+  "description": "Controle financeiro objetivo e brutal",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#121212",
+  "theme_color": "#121212",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><rect width='192' height='192' fill='%23121212'/><text x='50%' y='50%' font-family='sans-serif' font-size='100' font-weight='bold' fill='%23d4af37' dominant-baseline='middle' text-anchor='middle'>X</text></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' fill='%23121212'/><text x='50%' y='50%' font-family='sans-serif' font-size='300' font-weight='bold' fill='%23d4af37' dominant-baseline='middle' text-anchor='middle'>X</text></svg>",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
